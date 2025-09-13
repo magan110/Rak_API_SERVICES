@@ -1,0 +1,483 @@
+[
+  {
+    "ContainingType": "sparshWebService.Controllers.AuthController",
+    "Method": "ExecuteStoredProcedure",
+    "RelativePath": "api/Auth/execute",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "sparshWebService.Controllers.AuthRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ContractorController",
+    "Method": "GetContractorTypes",
+    "RelativePath": "api/Contractor/contractor-types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ContractorController",
+    "Method": "GetEmiratesList",
+    "RelativePath": "api/Contractor/emirates-list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ContractorController",
+    "Method": "RegisterContractor",
+    "RelativePath": "api/Contractor/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RAKControllers.Controllers.ContractorRegistrationRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ContractorController",
+    "Method": "UploadDocument",
+    "RelativePath": "api/Contractor/upload-document",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "DocumentType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.IncentiveSchemeController",
+    "Method": "GetBeneficiaryRoles",
+    "RelativePath": "api/IncentiveScheme/beneficiary-roles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.IncentiveSchemeController",
+    "Method": "CalculateBenefit",
+    "RelativePath": "api/IncentiveScheme/benefit-calculator/{role}/{quantity}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "quantity",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.IncentiveSchemeController",
+    "Method": "RegisterIncentiveScheme",
+    "RelativePath": "api/IncentiveScheme/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RAKControllers.Controllers.IncentiveSchemeRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.PainterController",
+    "Method": "GetEmiratesList",
+    "RelativePath": "api/Painter/emirates-list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.PainterController",
+    "Method": "GetReferenceList",
+    "RelativePath": "api/Painter/reference-list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.PainterController",
+    "Method": "RegisterPainter",
+    "RelativePath": "api/Painter/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RAKControllers.Controllers.PainterRegistrationRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.PainterController",
+    "Method": "UploadDocument",
+    "RelativePath": "api/Painter/upload-document",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "DocumentType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ProductEntryController",
+    "Method": "GetAreas",
+    "RelativePath": "api/ProductEntry/areas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ProductEntryController",
+    "Method": "GetCitiesDistricts",
+    "RelativePath": "api/ProductEntry/cities-districts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ProductEntryController",
+    "Method": "GetProducts",
+    "RelativePath": "api/ProductEntry/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ProductEntryController",
+    "Method": "GetRegions",
+    "RelativePath": "api/ProductEntry/regions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ProductEntryController",
+    "Method": "RegisterProductEntry",
+    "RelativePath": "api/ProductEntry/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RAKControllers.Controllers.ProductEntryRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ProductEntryController",
+    "Method": "GetSampleReceivers",
+    "RelativePath": "api/ProductEntry/sample-receivers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ProductEntryController",
+    "Method": "GetSampleTypes",
+    "RelativePath": "api/ProductEntry/sample-types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ProductEntryController",
+    "Method": "GetSiteTypes",
+    "RelativePath": "api/ProductEntry/site-types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ProductEntryController",
+    "Method": "UploadSamplePhoto",
+    "RelativePath": "api/ProductEntry/upload-sample-photo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "DocumentType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.RetailerController",
+    "Method": "GetProcessTypes",
+    "RelativePath": "api/Retailer/process-types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.RetailerController",
+    "Method": "RegisterRetailer",
+    "RelativePath": "api/Retailer/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RAKControllers.Controllers.RetailerRegistrationRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.RetailerController",
+    "Method": "GetRegisterOptions",
+    "RelativePath": "api/Retailer/register-options",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.RetailerController",
+    "Method": "GetRetailerCategories",
+    "RelativePath": "api/Retailer/retailer-categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.RetailerController",
+    "Method": "GetSchemeOptions",
+    "RelativePath": "api/Retailer/scheme-options",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.RetailerController",
+    "Method": "UploadDocument",
+    "RelativePath": "api/Retailer/upload-document",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "DocumentType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.SampleDistributionController",
+    "Method": "GetAreas",
+    "RelativePath": "api/SampleDistribution/areas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.SampleDistributionController",
+    "Method": "GetDistributionSummary",
+    "RelativePath": "api/SampleDistribution/distribution-summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.SampleDistributionController",
+    "Method": "RegisterSampleDistribution",
+    "RelativePath": "api/SampleDistribution/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RAKControllers.Controllers.SampleDistributionRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.SampleDistributionController",
+    "Method": "GetSkuSizes",
+    "RelativePath": "api/SampleDistribution/sku-sizes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.SamplingDriveController",
+    "Method": "CalculateReimbursement",
+    "RelativePath": "api/SamplingDrive/calculate-reimbursement/{mode}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.SamplingDriveController",
+    "Method": "RegisterSamplingDrive",
+    "RelativePath": "api/SamplingDrive/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RAKControllers.Controllers.SamplingDriveRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.SamplingDriveController",
+    "Method": "GetReimbursementModes",
+    "RelativePath": "api/SamplingDrive/reimbursement-modes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.SamplingDriveController",
+    "Method": "UploadSamplePhoto",
+    "RelativePath": "api/SamplingDrive/upload-sample-photo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "DocumentType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

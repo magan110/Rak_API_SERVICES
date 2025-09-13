@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>R:\RAKControllers\bin\Release\net8.0\publish</_PublishTargetUrl>
+    <History>True|2025-09-10T12:44:26.5260055Z||;False|2025-09-10T18:11:44.6078517+05:30||;False|2025-09-10T18:11:21.5321490+05:30||;True|2025-09-10T18:07:58.6197438+05:30||;True|2025-09-10T18:06:58.3467672+05:30||;True|2025-09-10T14:31:20.3329868+05:30||;True|2025-09-10T14:28:03.5776163+05:30||;True|2025-09-10T14:22:43.5427490+05:30||;True|2025-09-10T14:14:50.6185221+05:30||;True|2025-09-10T13:58:36.3675147+05:30||;True|2025-09-09T12:42:56.1381732+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70238940-E248-4795-9FF1-FCE6C7BEF745}|RAKControllers\\RAKControllers.csproj|r:\\rakcontrollers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70238940-E248-4795-9FF1-FCE6C7BEF745}|RAKControllers\\RAKControllers.csproj|r:\\rakcontrollers\\rakcontrollers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70238940-E248-4795-9FF1-FCE6C7BEF745}|RAKControllers\\RAKControllers.csproj|r:\\rakcontrollers\\authenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70238940-E248-4795-9FF1-FCE6C7BEF745}|RAKControllers\\RAKControllers.csproj|r:\\rakcontrollers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70238940-E248-4795-9FF1-FCE6C7BEF745}|RAKControllers\\RAKControllers.csproj|r:\\rakcontrollers\\controllers\\contractorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70238940-E248-4795-9FF1-FCE6C7BEF745}|RAKControllers\\RAKControllers.csproj|r:\\rakcontrollers\\controllers\\samplingdrivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70238940-E248-4795-9FF1-FCE6C7BEF745}|RAKControllers\\RAKControllers.csproj|r:\\rakcontrollers\\controllers\\sampledistributioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70238940-E248-4795-9FF1-FCE6C7BEF745}|RAKControllers\\RAKControllers.csproj|r:\\rakcontrollers\\controllers\\painterregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70238940-E248-4795-9FF1-FCE6C7BEF745}|RAKControllers\\RAKControllers.csproj|r:\\rakcontrollers\\controllers\\incentiveschemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70238940-E248-4795-9FF1-FCE6C7BEF745}|RAKControllers\\RAKControllers.csproj|r:\\rakcontrollers\\controllers\\productentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70238940-E248-4795-9FF1-FCE6C7BEF745}|RAKControllers\\RAKControllers.csproj|r:\\rakcontrollers\\controllers\\retailercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70238940-E248-4795-9FF1-FCE6C7BEF745}|RAKControllers\\RAKControllers.csproj|r:\\rakcontrollers\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70238940-E248-4795-9FF1-FCE6C7BEF745}|RAKControllers\\RAKControllers.csproj|r:\\rakcontrollers\\dataaccess\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70238940-E248-4795-9FF1-FCE6C7BEF745}|RAKControllers\\RAKControllers.csproj|r:\\rakcontrollers\\rakcontrollers.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RAKControllers",
+              "DocumentMoniker": "R:\\RAKControllers\\RAKControllers.csproj",
+              "RelativeDocumentMoniker": "..\\RAKControllers\\RAKControllers.csproj",
+              "ToolTip": "R:\\RAKControllers\\RAKControllers.csproj",
+              "RelativeToolTip": "..\\RAKControllers\\RAKControllers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-10T12:35:22.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SamplingDriveController.cs",
+              "DocumentMoniker": "R:\\RAKControllers\\Controllers\\SamplingDriveController.cs",
+              "RelativeDocumentMoniker": "..\\RAKControllers\\Controllers\\SamplingDriveController.cs",
+              "ToolTip": "R:\\RAKControllers\\Controllers\\SamplingDriveController.cs",
+              "RelativeToolTip": "..\\RAKControllers\\Controllers\\SamplingDriveController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAEBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:16:08.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SampleDistributionController.cs",
+              "DocumentMoniker": "R:\\RAKControllers\\Controllers\\SampleDistributionController.cs",
+              "RelativeDocumentMoniker": "..\\RAKControllers\\Controllers\\SampleDistributionController.cs",
+              "ToolTip": "R:\\RAKControllers\\Controllers\\SampleDistributionController.cs",
+              "RelativeToolTip": "..\\RAKControllers\\Controllers\\SampleDistributionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:15:34.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RetailerController.cs",
+              "DocumentMoniker": "R:\\RAKControllers\\Controllers\\RetailerController.cs",
+              "RelativeDocumentMoniker": "..\\RAKControllers\\Controllers\\RetailerController.cs",
+              "ToolTip": "R:\\RAKControllers\\Controllers\\RetailerController.cs",
+              "RelativeToolTip": "..\\RAKControllers\\Controllers\\RetailerController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAGsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:14:48.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductEntryController.cs",
+              "DocumentMoniker": "R:\\RAKControllers\\Controllers\\ProductEntryController.cs",
+              "RelativeDocumentMoniker": "..\\RAKControllers\\Controllers\\ProductEntryController.cs",
+              "ToolTip": "R:\\RAKControllers\\Controllers\\ProductEntryController.cs",
+              "RelativeToolTip": "..\\RAKControllers\\Controllers\\ProductEntryController.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAuwGIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:14:04.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IncentiveSchemeController.cs",
+              "DocumentMoniker": "R:\\RAKControllers\\Controllers\\IncentiveSchemeController.cs",
+              "RelativeDocumentMoniker": "..\\RAKControllers\\Controllers\\IncentiveSchemeController.cs",
+              "ToolTip": "R:\\RAKControllers\\Controllers\\IncentiveSchemeController.cs",
+              "RelativeToolTip": "..\\RAKControllers\\Controllers\\IncentiveSchemeController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAGwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:13:13.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContractorController.cs",
+              "DocumentMoniker": "R:\\RAKControllers\\Controllers\\ContractorController.cs",
+              "RelativeDocumentMoniker": "..\\RAKControllers\\Controllers\\ContractorController.cs",
+              "ToolTip": "R:\\RAKControllers\\Controllers\\ContractorController.cs",
+              "RelativeToolTip": "..\\RAKControllers\\Controllers\\ContractorController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwF8BAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:12:31.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PainterRegistration.cs",
+              "DocumentMoniker": "R:\\RAKControllers\\Controllers\\PainterRegistration.cs",
+              "RelativeDocumentMoniker": "..\\RAKControllers\\Controllers\\PainterRegistration.cs",
+              "ToolTip": "R:\\RAKControllers\\Controllers\\PainterRegistration.cs",
+              "RelativeToolTip": "..\\RAKControllers\\Controllers\\PainterRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:36:15.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "R:\\RAKControllers\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\RAKControllers\\Controllers\\AuthController.cs",
+              "ToolTip": "R:\\RAKControllers\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\RAKControllers\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAqwA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T04:27:13.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationMiddleware.cs",
+              "DocumentMoniker": "R:\\RAKControllers\\AuthenticationMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\RAKControllers\\AuthenticationMiddleware.cs",
+              "ToolTip": "R:\\RAKControllers\\AuthenticationMiddleware.cs",
+              "RelativeToolTip": "..\\RAKControllers\\AuthenticationMiddleware.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T04:33:33.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RAKControllers.http",
+              "DocumentMoniker": "R:\\RAKControllers\\RAKControllers.http",
+              "RelativeDocumentMoniker": "..\\RAKControllers\\RAKControllers.http",
+              "ToolTip": "R:\\RAKControllers\\RAKControllers.http",
+              "RelativeToolTip": "..\\RAKControllers\\RAKControllers.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-30T04:33:00.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "R:\\RAKControllers\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\RAKControllers\\appsettings.json",
+              "ToolTip": "R:\\RAKControllers\\appsettings.json",
+              "RelativeToolTip": "..\\RAKControllers\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T04:26:38.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\RAKControllers\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RAKControllers\\Program.cs",
+              "ToolTip": "R:\\RAKControllers\\Program.cs",
+              "RelativeToolTip": "..\\RAKControllers\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T04:26:04.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "R:\\RAKControllers\\DataAccess\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "..\\RAKControllers\\DataAccess\\DatabaseHelper.cs",
+              "ToolTip": "R:\\RAKControllers\\DataAccess\\DatabaseHelper.cs",
+              "RelativeToolTip": "..\\RAKControllers\\DataAccess\\DatabaseHelper.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwGQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T04:25:48.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

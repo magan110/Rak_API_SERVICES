@@ -1,0 +1,232 @@
+[
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_3",
+    "RelativePath": "{*path}",
+    "HttpMethod": "OPTIONS",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sparshWebService.Controllers.AuthController",
+    "Method": "ExecuteStoredProcedure",
+    "RelativePath": "api/Auth/execute",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "sparshWebService.Controllers.AuthRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ContractorController",
+    "Method": "ContractorTypes",
+    "RelativePath": "api/Contractor/contractor-types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ContractorController",
+    "Method": "EmiratesList",
+    "RelativePath": "api/Contractor/emirates-list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.ContractorController",
+    "Method": "Register",
+    "RelativePath": "api/Contractor/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RAKControllers.Controllers.ContractorRegistrationRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.IncentiveSchemeController",
+    "Method": "GetBeneficiaryRoles",
+    "RelativePath": "api/IncentiveScheme/beneficiary-roles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.IncentiveSchemeController",
+    "Method": "CalculateBenefit",
+    "RelativePath": "api/IncentiveScheme/benefit-calculator/{role}/{quantity}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "quantity",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.IncentiveSchemeController",
+    "Method": "RegisterIncentiveScheme",
+    "RelativePath": "api/IncentiveScheme/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RAKControllers.Controllers.IncentiveSchemeRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.PainterController",
+    "Method": "EmiratesList",
+    "RelativePath": "api/Painter/emirates-list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.PainterController",
+    "Method": "Register",
+    "RelativePath": "api/Painter/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RAKControllers.Controllers.PainterRegistrationRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.RetailerOnboardingController",
+    "Method": "RegisterRetailer",
+    "RelativePath": "api/RetailerOnboarding/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RAKControllers.Controllers.RetailerOnboardingRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.SampleDistributionController",
+    "Method": "GetAreas",
+    "RelativePath": "api/SampleDistribution/areas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.SampleDistributionController",
+    "Method": "GetDistributionSummary",
+    "RelativePath": "api/SampleDistribution/distribution-summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.SampleDistributionController",
+    "Method": "RegisterSampleDistribution",
+    "RelativePath": "api/SampleDistribution/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RAKControllers.Controllers.SampleDistributionRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.SampleDistributionController",
+    "Method": "GetSkuSizes",
+    "RelativePath": "api/SampleDistribution/sku-sizes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RAKControllers.Controllers.SampleLeadController",
+    "Method": "RegisterSampleLead",
+    "RelativePath": "api/SampleLead/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RAKControllers.Controllers.SampleLeadRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
