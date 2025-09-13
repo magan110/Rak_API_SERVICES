@@ -1,6 +1,0 @@
-@RAKControllers_HostAddress = http://localhost:5255
-
-GET {{RAKControllers_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
